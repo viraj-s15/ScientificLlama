@@ -1,0 +1,8 @@
+datasets==2.14.4
+huggingface_hub==0.16.4
+numpy==1.25.2
+pandas==2.0.3
+peft==0.5.0
+torch==2.0.1
+transformers==4.32.1
+trl==0.6.0
