@@ -1,6 +1,6 @@
 from huggingface_hub import login
 
-login(<add token>)
+# login(<add token>)
 
 
 import pandas as pd
