@@ -31,3 +31,15 @@ pip install -r requirements.txt
 ## Usage <a name = "usage"></a>
 
 This model has been uploaded to <a href="https://huggingface.co/Veer15/llama2-science-mcq-solver">Hugging Face</a>. It will be accessible from and compatible with all hugging face apis.
+
+---
+```
+@misc {viraj_shah_2023,
+	author       = { {Viraj Shah} },
+	title        = { llama2-science-mcq-solver (Revision baa10d4) },
+	year         = 2023,
+	url          = { https://huggingface.co/Veer15/llama2-science-mcq-solver },
+	doi          = { 10.57967/hf/1038 },
+	publisher    = { Hugging Face }
+}
+```
